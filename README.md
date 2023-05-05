@@ -6,11 +6,9 @@
 
 - 🌱 I’m currently learning **NextJS and Flutter**
 
-- 🤝 I’m looking for help with [RabbiMQ Pika Flask](https://github.com/aylton-almeida/rabbitmq-pika-flask)
-
 - 👨‍💻 All of my projects are available at [https://github.com/aylton-almeida](https://github.com/aylton-almeida)
 
-- 💬 Ask me about **React and React Native, Flask, Typescript, AWS**
+- 💬 Ask me about **React and React Native, Flask, Typescript, AWS, Python**
 
 - 📫 How to reach me **almeida@aylton.dev**
 
