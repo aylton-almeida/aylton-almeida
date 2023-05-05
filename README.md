@@ -2,7 +2,7 @@
 
 ## A Brazilian Software Engineer with passion for games 🎮, music 🎶 and learning 📚
 
-- 🔭 I’m currently studying **Software Engineering** at **PUC Minas**
+- 🔭 I’m a graduate in **Software Engineering** at **PUC Minas**
 
 - 🌱 I’m currently learning **NextJS and Flutter**
 
